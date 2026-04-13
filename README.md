@@ -346,4 +346,4 @@ Product names are used solely for identification and interoperability purposes.
 - [rtl_433](https://github.com/merbanan/rtl_433) -- Dooya protocol decoder reference
 - [ESPHome](https://esphome.io/) -- Dooya protocol support reference
 - [CUxD](https://github.com/jens-maus/cuxd) -- HomeMatic/RaspberryMatic virtual device addon
-- Texas Instruments -- CC1101 Low-Power Sub-1 GHz RF Transceiver datasheet
+- [Texas Instruments CC1101](https://www.ti.com/product/CC1101) -- Low-Power Sub-1 GHz RF Transceiver ([Datasheet PDF](https://www.ti.com/lit/ds/symlink/cc1101.pdf))
