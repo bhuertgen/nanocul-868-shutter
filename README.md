@@ -342,7 +342,7 @@ Product names are used solely for identification and interoperability purposes.
 
 - [schlauHAUS](https://schlauhaus.biz/) -- nanoCUL hardware
 - [SIGNALduino](https://github.com/RFD-FHEM/SIGNALDuino) -- Original nanoCUL firmware
-- [cc1101-tool](https://github.com/mcore1976/cc1101-tool) -- CC1101 reference implementation
+- [cc1101-tool](https://github.com/mcore1976/cc1101-tool) (GPL-2.0) -- CC1101 async TX concept via GDO0 pin inspired our TX implementation
 - [rtl_433](https://github.com/merbanan/rtl_433) -- Dooya protocol decoder reference
 - [ESPHome](https://esphome.io/) -- Dooya protocol support reference
 - [CUxD](https://github.com/jens-maus/cuxd) -- HomeMatic/RaspberryMatic virtual device addon
