@@ -363,7 +363,7 @@ Dieses Protokoll wurde reverse-engineered mit folgenden Werkzeugen:
    - `SendSC&type=KN` zum Senden bekannter Befehle
    - RF-Logs für Protokoll-Analyse
 
-4. **Kaiser Nienhaus Anleitung** (Art.Nr. 140100-144100)
+4. **[Kaiser Nienhaus Anleitung](https://www.kaiser-nienhaus.de/fileadmin/content/produkte/antriebe/Produktdownloads/140100-144100_neu_2021.pdf)** (Art.Nr. 140100-144100)
    - Tastenbelegung der Fernbedienung
    - Anlernen, Endpunkte, Verschattungsposition
 

@@ -52,7 +52,7 @@ D2  (GDO2) →  GDO2
 
 - **Gaposa** roller shutter motors (868 MHz)
 - **Dooya** tubular motors (868 MHz, KN protocol variant)
-- **Kaiser Nienhaus** Furohre 868 MHz tubular motors (Art.Nr. 140100-144100)
+- **Kaiser Nienhaus** Furohre 868 MHz tubular motors ([Art.Nr. 140100-144100](https://www.kaiser-nienhaus.de/fileadmin/content/produkte/antriebe/Produktdownloads/140100-144100_neu_2021.pdf))
 
 All motors using the unidirectional OOK-based KN protocol at 868.35 MHz.
 
