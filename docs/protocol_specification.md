@@ -26,7 +26,7 @@ da es proprietär und verschlüsselt ist.
 
 | Parameter | Wert |
 |-----------|------|
-| Trägerfrequenz | **868.35 MHz (Standard)
+| Trägerfrequenz | **868.35 MHz** (Standard) |
 | Alternative | **868.15 MHz** (Original-Fernbedienung) |
 | ISM-Band | SRD 868 MHz (Europa) |
 | Bandbreite | ~200 kHz |

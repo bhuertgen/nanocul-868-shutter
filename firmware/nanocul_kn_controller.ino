@@ -146,7 +146,7 @@ void safeDelayUs(uint32_t us) {
 //   SET GAP <us>         - Inter-repeat gap (default 15000)
 //   SET REPEATS <n>      - Number of repeats (default 6)
 //   SET SAVETIME <ms>    - SAVE duration in ms (default 4000)
-//   SET SAVEGAP <us>     - SAVE inter-frame gap (default 500)
+//   SET SAVEGAP <us>     - SAVE inter-frame gap (default 15000)
 //   SET TXPOWER <hex>    - PA table value (default C0, max C6)
 //   SET PREAMBLE <0|1>   - Preamble toggle on/off (default 1)
 //   SET DEFAULTS         - Reset all parameters to factory defaults
@@ -1147,7 +1147,7 @@ static void processCommand(char *cmd) {
     Serial.println(F("SET GAP <us>       - Inter-repeat gap (def 15000)"));
     Serial.println(F("SET REPEATS <n>    - Repeat count (def 6)"));
     Serial.println(F("SET SAVETIME <ms>  - SAVE duration (def 4000)"));
-    Serial.println(F("SET SAVEGAP <us>   - SAVE inter-frame gap (def 500)"));
+    Serial.println(F("SET SAVEGAP <us>   - SAVE inter-frame gap (def 15000)"));
     Serial.println(F("SET TXPOWER <hex>  - PA table value (def C0)"));
     Serial.println(F("SET PREAMBLE <0|1> - Preamble toggle (def 1)"));
     Serial.println(F("SET DEFAULTS       - Reset to factory defaults"));
@@ -1196,7 +1196,7 @@ void setup() {
 
   if (version == 0x00 || version == 0xFF) {
     Serial.println(F("WARNING: CC1101 not detected! Check SPI wiring:"));
-    Serial.println(F("  SCK=D13, MISO=D12, MOSI=D11, CSN=D10, GDO0=D2"));
+    Serial.println(F("  SCK=D13, MISO=D12, MOSI=D11, CSN=D10, GDO0=D3"));
   } else {
     Serial.print(F("CC1101 OK. Freq: "));
     Serial.print(currentFreqMHz, 2);

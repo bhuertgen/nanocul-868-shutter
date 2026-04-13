@@ -263,7 +263,7 @@ nanocul-868-shutter/
   examples/
     python_serial.py            # Python serial control example
     cuxd_integration.sh         # RaspberryMatic CUxD example
-  LICENSE                       # MIT License
+  LICENSE                       # GPL-3.0 License
   README.md                     # This file
 ```
 
