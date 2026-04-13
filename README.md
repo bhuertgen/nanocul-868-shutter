@@ -71,7 +71,7 @@ All motors using the unidirectional OOK-based KN protocol at 868.35 MHz.
 ### 1. Get Hardware
 
 - **nanoCUL 868 MHz USB stick** from [schlauHAUS](https://schlauhaus.biz/en/product-2/nanocul-868/) (~30 EUR)
-- USB cable (USB-C for newer models)
+- **USB cable**: USB-C to USB-A or USB-C to USB-C (depending on your PC/Raspberry Pi)
 
 ### 2. Flash Firmware
 
@@ -173,7 +173,8 @@ See [docs/protocol_specification.md](docs/protocol_specification.md) for the ful
 
 | Item | Source | Price |
 |------|--------|-------|
-| nanoCUL 868 MHz USB stick | [schlauHAUS](https://schlauhaus.biz/en/product-2/nanocul-868/) | ~30 EUR |
+| nanoCUL 868 MHz USB stick (USB-C) | [schlauHAUS](https://schlauhaus.biz/en/product-2/nanocul-868/) | ~30 EUR |
+| USB cable (USB-C to USB-A or USB-C) | any | ~5 EUR |
 | Flipper Zero (optional, for debugging) | [flipperzero.one](https://flipperzero.one/) | ~170 EUR |
 
 The nanoCUL comes pre-flashed with SIGNALduino firmware. This project provides an alternative firmware specialized for KN shutter control. The original SIGNALduino firmware can be restored at any time -- see the [firmware guide](docs/firmware_guide.md).
