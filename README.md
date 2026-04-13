@@ -1,6 +1,6 @@
 # nanocul-868-shutter
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-teal.svg)](https://www.arduino.cc/)
 [![Hardware: ATmega328P + CC1101](https://img.shields.io/badge/Hardware-ATmega328P%20%2B%20CC1101-orange.svg)]()
 
@@ -285,10 +285,13 @@ Please open an issue first to discuss significant changes.
 
 ## License
 
-This project is licensed under the **MIT License** -- see [LICENSE](LICENSE) for details.
+This project is licensed under the **GNU General Public License v3.0** -- see [LICENSE](LICENSE) for details.
 
-The MIT License covers the firmware source code, example scripts, and documentation
-created by the authors. The RF protocol documentation describes publicly observable
+This means: You are free to use, modify, and distribute this software, but any
+derivative work must also be released under GPL-3.0 (copyleft). This ensures that
+improvements and modifications benefit the entire community.
+
+The RF protocol documentation describes publicly observable
 radio signals for interoperability purposes, similar to projects like
 [rtl_433](https://github.com/merbanan/rtl_433),
 [ESPHome](https://esphome.io/components/remote_transmitter.html#dooya), and

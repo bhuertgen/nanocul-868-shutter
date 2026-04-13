@@ -41,7 +41,7 @@
 //
 // Author: Boris Huertgen / Claude
 // Date: 2026-04-11
-// License: MIT
+// License: GPL-3.0
 // =============================================================================
 
 #include <SPI.h>
