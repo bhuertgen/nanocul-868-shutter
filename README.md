@@ -8,8 +8,7 @@ Open-source firmware and protocol documentation for controlling **868 MHz roller
 
 A standalone, low-cost alternative for direct RF control of 868 MHz roller shutter motors.
 
-<!-- TODO: Add photo of nanoCUL stick and wiring diagram -->
-![nanoCUL USB Stick](https://via.placeholder.com/800x300?text=nanoCUL+868+MHz+USB+Stick+Photo)
+<!-- TODO: Add photo of nanoCUL stick when available -->
 
 ---
 
