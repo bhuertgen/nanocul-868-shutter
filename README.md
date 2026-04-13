@@ -8,7 +8,7 @@ Open-source firmware and protocol documentation for controlling **868 MHz roller
 
 A standalone, low-cost alternative for direct RF control of 868 MHz roller shutter motors.
 
-> **Hardware:** [nanoCUL 868 MHz USB Stick](https://schlauhaus.biz/en/product-2/nanocul-868/) from schlauHAUS (~30 EUR) — ATmega328P + CC1101 + CH340 USB-C
+> **Hardware:** [nanoCUL 868 MHz USB-C Stick](https://schlauhaus.biz/en/product-2/nanocul-868/) from schlauHAUS (~30 EUR) — ATmega328P + CC1101 + CH340, with enclosure and SMA antenna
 
 ---
 
